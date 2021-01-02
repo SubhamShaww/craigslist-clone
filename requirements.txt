@@ -1,0 +1,25 @@
+asgiref==3.3.1
+astroid @ file:///C:/ci/astroid_1592487315634/work
+autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==4.0.0
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+Django==3.1.4
+djangorestframework==3.12.2
+idna==2.10
+isort @ file:///tmp/build/80754af9/isort_1602603989581/work
+lazy-object-proxy @ file:///C:/b/work
+mccabe==0.6.1
+pycodestyle==2.6.0
+pylint @ file:///C:/ci/pylint_1598617153160/work
+pytz==2020.4
+requests==2.25.1
+six @ file:///C:/ci/six_1605187374963/work
+soupsieve==2.1
+sqlparse==0.4.1
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+urllib3==1.26.2
+wincertstore==0.2
+wrapt==1.11.2
